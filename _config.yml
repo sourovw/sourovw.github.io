@@ -1,0 +1,33 @@
+title: "sourov halder"
+email: "sourovw@proton.me"
+location: "Dhaka, Bangladesh"
+
+social:
+  - {icon: 'github', link: 'https://github.com/sourovw'}
+
+projects:
+  - {
+      title: 'Attendance Taker - Face Recognition based Attendance System',
+      about: 'An artificial intelligence based attendance system, which can substantiate the physical presence of the students / staff during the online lectures or office hours.',
+      repo: 'attendance-taker'
+    }
+  - {
+      title: 'Comments Filtering on Social Media using Machine Learning Approach*',
+      about: 'Developing a machine learning alogorithm / technique that can identifying deceptive comments / opinions on social media.',
+      repo: 'Deceptive-Comment-Filtering'
+    }
+
+google_analytics: "G-LVNP81BP75"
+
+github: "github.com/sourovw"
+repository: "sourovw.github.io"
+calendly: "calendly.com/sourovw/15min"
+
+url: "https://sourovw.github.io"
+baseurl: ""
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+permalink: /:title
